@@ -24,11 +24,12 @@ In this project, we:
 Cloning and Running the Project
 Clone this repository to your local machine:
 
-    ```bash
+    ```bash    
     git clone https://github.com/your-username/50-startups-regression.git
 Navigate to the project directory:
 
     ```bash
+    
     cd 50-startups-regression
 Ensure that you have the 50_Startups.csv dataset in the same directory as the script, or adjust the dataset path accordingly in the code.
 
