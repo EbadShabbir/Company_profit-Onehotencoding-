@@ -25,7 +25,7 @@ Cloning and Running the Project
 Clone this repository to your local machine:
 
     ```bash    
-    git clone https://github.com/your-username/50-startups-regression.git
+    git clone https://github.com/EbadShabbir/50-startups-regression.git
 Navigate to the project directory:
 
     ```bash
