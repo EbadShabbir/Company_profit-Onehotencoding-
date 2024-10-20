@@ -18,8 +18,23 @@ In this project, we:
 - `pandas`: For data handling
 - `matplotlib`: For plotting (not used in this case, but imported)
 - `scikit-learn`: For machine learning tasks such as encoding, splitting, and regression
+    ```bash
+    pip install numpy pandas matplotlib scikit-learn
 
-Install the necessary dependencies using the following command:
+Cloning and Running the Project
+Clone this repository to your local machine:
+
+    ```bash
+    git clone https://github.com/your-username/50-startups-regression.git
+Navigate to the project directory:
+
+    ```bash
+    cd 50-startups-regression
+Ensure that you have the 50_Startups.csv dataset in the same directory as the script, or adjust the dataset path accordingly in the code.
+
+Run the Python script:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+
+python regression_model.py
+
